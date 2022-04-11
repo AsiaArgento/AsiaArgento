@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsiaArgento
 - 👀 I’m interested in building websites with NextJs, assisting others with tech
 - 🌱 I’m currently learning React / NextJs ecosystems
-- 💞️ I’m looking to collaborate on full stack projects
+- 💞️ I’m looking to collaborate on websites / apps
 - 📫 Send me an email
 
 <!---
